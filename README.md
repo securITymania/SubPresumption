@@ -30,3 +30,7 @@ Usage: python3 ./SubPresumption.py -d example.com
        python3 ./SubPresumption.py -l subdomains.txt 
 ```
 ## ScreenShots
+![screenshot1](https://github.com/securITymania/SubPresumption/blob/master/screenshots/SubPresumption.png)
+
+##### Health Map 
+![screenshot2](https://github.com/securITymania/SubPresumption/blob/master/screenshots/SubPresumption%20health%20map.png)
