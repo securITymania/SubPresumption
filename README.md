@@ -1,5 +1,5 @@
 # SubPresumption v1.0
-#### This is a just basic subdomain takeover enumeration tool. This tool reduces the time spend to check subdomain takeover for the BugBounty hunters. The tool shows the CNAME records for the 404 subdomains and gives an idea to the Bounter.
+#### This is a just basic subdomain takeover enumeration tool. This tool reduces the time spend to check subdomain takeover for the BugBounty hunters. The tool shows the CNAME records for the "HTTP 404" subdomains and gives an idea to the Bounter.
 
 ## Features 
   * __Multi Thead Requests__
